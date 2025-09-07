@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qingxiang CHEN (陈清祥)"
+title                    : "Qingxiang CHEN  (陈清祥)"
 description              : "Focusing on 3D GIS models reconstruction by image understanding and other new methods."
 repository               : "https://geosuperchen.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+#google_analytics_id      : G-SWFCX99KQZ
 
 # SEO Related
 google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,8 +21,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Qingxiang CHEN (陈清祥)"
-  avatar           : "images/ry_profile.jpeg"
+  name             : "Qingxiang CHEN \n(陈清祥)"
+  avatar           : "images/superchen_profile.jpg"
   bio              : ""
   location         : "China"
   employer         :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "geosuperchen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : #"rayeren"
+  dblp             : #"https://dblp.org/pid/75/6568-6.html"
+  orcid            : #"https://orcid.org/0000-0002-9160-3848"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

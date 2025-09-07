@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Qingxiang CHEN (陈清祥)"
+description              : "Focusing on 3D GIS models reconstruction by image understanding and other new methods."
+repository               : "https://geosuperchen.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Qingxiang CHEN (陈清祥)"
   avatar           : "images/ry_profile.jpeg"
   bio              : ""
-  location         : "Singapore"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=SUZwvwYAAAAJ&view_op=list_works&gmla=AETOMgFbYEkud3nlNbyyfea0qEWP_eeizohMqTRS23n4G0pa8pUP-dQJtK5Cpnryzbb0AAjJuAX9VK5YfkS15xOw"
+  email            : "superchen@chzu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

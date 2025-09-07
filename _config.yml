@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qingxiang CHEN  (陈清祥)"
-description              : "Focusing on 3D GIS models reconstruction by image understanding and other new methods."
+title                    : "Name"
+description              : "Focusing on 3D GIS and Remote Sensing methods."
 repository               : "https://geosuperchen.github.io/"
 google_scholar_stats_use_cdn : true
 

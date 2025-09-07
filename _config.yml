@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Qingxiang CHEN \n(陈清祥)"
+  # name             : "Qingxiang CHEN \n(陈清祥)"
   avatar           : "images/superchen_profile.jpg"
   bio              : ""
   location         : "China"
